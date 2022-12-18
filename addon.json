@@ -1,0 +1,19 @@
+{
+    "legacy_addon_id": "",
+    "title": "[PBY] Extended API",
+    "description": "Extends the default XenForo API.",
+    "version_id": 1000070,
+    "version_string": "1.0.0",
+    "dev": "enderG#0669",
+    "dev_url": "https://github.com/Classes123",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": [],
+    "require": {
+        "XF": [
+            2020070,
+            "XenForo 2.2.0+"
+        ]
+    },
+    "icon": "fa-road"
+}
